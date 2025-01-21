@@ -8,6 +8,7 @@ A collection of SaaS templates in NextJS and reviews on them.
 5. https://github.com/lmsqueezy/nextjs-billing
 6. https://github.com/leerob/next-saas-starter?tab=readme-ov-file
 7. https://github.com/NextJSTemplates/play-nextjs?tab=readme-ov-file
+8. https://github.com/saasfly/saasfly?tab=readme-ov-file
 
 ## Pricing Models
 The logic for this will be that the template is driven by the pricing model on its backend.
