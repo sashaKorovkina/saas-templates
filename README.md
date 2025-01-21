@@ -21,5 +21,3 @@ The logic for this will be that the template is driven by the pricing model on i
 6. **Usage-based (Metered):** Costs depend on usage metrics, such as API calls or storage.
 7. **Free trial:** Users access the full service for a limited time before deciding to pay.
 8. **Action-based:** Users perform a specific action for free a limited number of times before it becomes paid.
-
-Hence for each one, we need a template.
