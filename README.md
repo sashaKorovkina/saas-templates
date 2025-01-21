@@ -22,4 +22,4 @@ Hence for each one, we need a template.
 
 ## Templates 
 
-**Subscription-based:** 
+**Subscription-based:** [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter?tab=readme-ov-file)
