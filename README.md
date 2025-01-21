@@ -23,7 +23,3 @@ The logic for this will be that the template is driven by the pricing model on i
 8. **Action-based:** Users perform a specific action for free a limited number of times before it becomes paid.
 
 Hence for each one, we need a template.
-
-## Templates 
-
-**Subscription-based:** [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter?tab=readme-ov-file)
