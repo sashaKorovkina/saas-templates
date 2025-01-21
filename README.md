@@ -5,10 +5,10 @@ A collection of SaaS templates in NextJS and reviews on them.
 2. [Next Forge](https://www.next-forge.com/)
 3. [Vercel Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments)
 4. [Next Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter?tab=readme-ov-file)
-5. https://github.com/lmsqueezy/nextjs-billing
-6. https://github.com/leerob/next-saas-starter?tab=readme-ov-file
-7. https://github.com/NextJSTemplates/play-nextjs?tab=readme-ov-file
-8. https://github.com/saasfly/saasfly?tab=readme-ov-file
+5. [NextJS Billing](https://github.com/lmsqueezy/nextjs-billing)
+6. [Next SaaS Starter by Lee Robinson](https://github.com/leerob/next-saas-starter?tab=readme-ov-file)
+7. [Play NextJS Templates](https://github.com/NextJSTemplates/play-nextjs?tab=readme-ov-file)
+8. [SaaS Fly](https://github.com/saasfly/saasfly?tab=readme-ov-file)
 
 ## Pricing Models
 The logic for this will be that the template is driven by the pricing model on its backend.
