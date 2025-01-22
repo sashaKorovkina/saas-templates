@@ -1,4 +1,7 @@
 # saas-templates
+
+The goal of this repository is to have a set of tools with which you can spin up SaaS MVPs and POCs as fast as possible. 
+
 A collection of SaaS templates in NextJS and reviews on them. 
 
 1. [Next SaaS Stripe Starter](https://github.com/mickasmt/next-saas-stripe-starter)
